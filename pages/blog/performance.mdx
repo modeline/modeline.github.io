@@ -1,0 +1,8 @@
+import { BlogPost } from "../../components/BlogPost";
+
+export const meta = {
+    author: "Krzysztof Kowalczyk",
+    title: "A comparative analysis of deep neural networks' performance in production environments",
+};
+
+export default ({children}) => <BlogPost meta={meta}>{children}</BlogPost>;
