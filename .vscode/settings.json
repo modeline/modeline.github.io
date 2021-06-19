@@ -1,0 +1,45 @@
+{
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black",
+  "python.pythonPath": "/Users/kowal/Library/Caches/pypoetry/virtualenvs/modeline-server-Yy3ZeeyM-py3.8/bin/python",
+  "[python]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    // https://stackoverflow.com/questions/29972396/how-can-i-customize-the-tab-to-space-conversion-factor
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+    // "editor.detectIndentation": false
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    // https://stackoverflow.com/questions/29972396/how-can-i-customize-the-tab-to-space-conversion-factor
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+    // "editor.detectIndentation": false
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    // https://stackoverflow.com/questions/29972396/how-can-i-customize-the-tab-to-space-conversion-factor
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+    // "editor.detectIndentation": false
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    // https://stackoverflow.com/questions/29972396/how-can-i-customize-the-tab-to-space-conversion-factor
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+    // "editor.detectIndentation": false
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    // https://stackoverflow.com/questions/29972396/how-can-i-customize-the-tab-to-space-conversion-factor
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+    // "editor.detectIndentation": false
+  }
+}
